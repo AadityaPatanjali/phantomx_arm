@@ -1,0 +1,378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"geome",
+				"geometrictools"
+			],
+			[
+				"se",
+				"servos"
+			],
+			[
+				"ser",
+				"servo_pos"
+			],
+			[
+				"ma",
+				"max_angle"
+			],
+			[
+				"set",
+				"SetValue"
+			],
+			[
+				"su",
+				"subscribeToggle"
+			],
+			[
+				"event",
+				"event"
+			],
+			[
+				"st",
+				"stateCb"
+			],
+			[
+				"s",
+				"self"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/tesla/catkin_ws/src/arbotix_ros-indigo-devel/arbotix_python/bin/arbotix_gui",
+			"settings":
+			{
+				"buffer_size": 8191,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "demo.launch",
+			"settings":
+			{
+				"buffer_size": 1667,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/tesla/catkin_ws/src/moveit_tutorials-indigo-devel/doc/pr2_tutorials/planning/scripts/move_group_python_interface_tutorial.py",
+			"settings":
+			{
+				"buffer_size": 8727,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_bringup/launch/arm.launch",
+		"/home/tesla/catkin_ws/src/arbotix_ros-indigo-devel/arbotix_python/bin/arbotix_driver",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_controller/launch/controller_manager.launch",
+		"/home/tesla/catkin_ws/src/arbotix_ros-indigo-devel/arbotix_controllers/bin/gripper_controller",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_bringup/scripts/fake_joint_pub.py",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_bringup/config/pincher_gripper.yaml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_bringup/config/pincher_arm.yaml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/demo.launch",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/setup_assistant.launch",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/sensor_manager.launch.xml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/trajectory_execution.launch.xml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/config/controllers.yaml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/moveit_rviz.launch",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/moveit.rviz",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/planning_context.launch",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/move_group.launch",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/phantomx_arm_moveit_sensor_manager.launch.xml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/phantomx_arm_moveit_controller_manager.launch.xml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/planning_pipeline.launch.xml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/ompl_planning_pipeline.launch.xml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/config/ompl_planning.yaml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/config/kinematics.yaml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/config/joint_limits.yaml",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/demo.sublime-project",
+		"/home/tesla/catkin_ws/src/moveit_tutorials-indigo-devel/doc/pr2_tutorials/planning/scripts/move_group_python_interface_tutorial.py",
+		"/home/tesla/catkin_ws/src/turtlebot_arm-indigo-devel/turtlebot_arm_moveit_demos/bin/pick_and_place.py",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/own.launch",
+		"/home/tesla/catkin_ws/src/moveit_tutorials-indigo-devel/doc/pr2_tutorials/planning/launch/move_group_python_interface_tutorial.launch",
+		"/home/tesla/catkin_ws/src/swimsat/src/scripts/commander.py",
+		"/home/tesla/catkin_ws/src/arbotix_ros-indigo-devel/arbotix_python/bin/arbotix_gui_modified.py",
+		"/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_moveit_config/launch/fake_moveit_controller_manager.launch.xml",
+		"/home/tesla/catkin_ws/src/turtlebot_arm-indigo-devel/turtlebot_arm_block_manipulation/src/block_detection_action_server.cpp",
+		"/home/tesla/catkin_ws/src/turtlebot_arm-indigo-devel/turtlebot_arm_object_manipulation/src/pick_and_place_action_server.cpp",
+		"/home/tesla/catkin_ws/src/turtlebot_arm-indigo-devel/turtlebot_arm_object_manipulation/src/object_detection_action_server.cpp",
+		"/home/tesla/catkin_ws/src/turtlebot_arm-indigo-devel/turtlebot_arm_object_manipulation/src/interactive_manipulation_action_server.cpp",
+		"/home/tesla/catkin_ws/src/swimsat/src/launch/arm.launch",
+		"/home/tesla/catkin_ws/src/swimsat/src/scripts/node.py",
+		"/opt/ros/indigo/lib/robot_state_publisher/robot_state_publisher",
+		"/home/tesla/catkin_ws/src/arbotix_ros-indigo-devel/arbotix_python/bin/arbotix_gui",
+		"/home/tesla/catkin_ws/src/swimsat/src/launch/architecture/arch.launch",
+		"/home/tesla/rqt5.py",
+		"/home/tesla/rqt4.py",
+		"/home/tesla/rqt3.py",
+		"/home/tesla/rqt2.py",
+		"/home/tesla/test.py",
+		"/home/tesla/rqt.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"base_link",
+			"motion",
+			"pr2",
+			"geometric_tools",
+			"shape_tools",
+			"shape",
+			"shape_tools",
+			".publish",
+			"pub",
+			"init",
+			"urdf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/tesla/catkin_ws/src/arbotix_ros-indigo-devel/arbotix_python/bin/arbotix_gui",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 816.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "demo.launch",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1667,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/tesla/catkin_ws/src/moveit_tutorials-indigo-devel/doc/pr2_tutorials/planning/scripts/move_group_python_interface_tutorial.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4689,
+								4689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1785.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "demo.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"aa",
+				"~/catkin_ws/src/swimsat/src/launch/architecture/arch.launch"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
