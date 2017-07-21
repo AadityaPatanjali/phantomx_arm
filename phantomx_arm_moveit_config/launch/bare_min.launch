@@ -1,0 +1,21 @@
+<launch>
+
+  <!-- By default, we are not in debug mode -->
+  <arg name="debug" default="false" />
+
+  <!-- Load Phantomx pincher arm bringup -->
+  <include file="$(find phantomx_arm_bringup)/launch/arm.launch">
+  </include>
+
+  <!-- Load the URDF, SRDF and other .yaml configuration files on the param server -->
+  <include file="$(find phantomx_arm_moveit_config)/launch/planning_context.launch">
+    <arg name="load_robot_description" value="true"/>
+  </include>
+
+  <!-- Run the main MoveIt executable -->
+  <include file="$(find phantomx_arm_moveit_config)/launch/move_group.launch">
+    <arg name="info" value="true"/>
+    <arg name="debug" value="$(arg debug)"/>
+  </include>
+
+</launch>
