@@ -11,11 +11,11 @@
   <node name="fake_joint_pub" pkg="phantomx_arm_bringup" type="fake_joint_pub.py"/>
 
   <node name="arbotix" pkg="arbotix_python" type="arbotix_driver" output="screen">
-    <rosparam file="$(find phantomx_arm_bringup)/config/$(arg arm_type)_arm.yaml" command="load"/>
+    <rosparam file="$(find phantomx_arm_bringup)/config/pincher_arm.yaml" command="load"/>
     <param name="sim" value="$(arg simulation)"/>
   </node>
 
  <node name="gripper_controller" pkg="arbotix_controllers" type="gripper_controller" output="screen">
-       <rosparam file="$(find phantomx_arm_bringup)/config/$(arg arm_type)_gripper.yaml" command="load" />
+       <rosparam file="$(find phantomx_arm_bringup)/config/pincher_gripper.yaml" command="load" />
   </node>
 </launch>

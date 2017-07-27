@@ -1,0 +1,8 @@
+prefix=/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_controller/install
+
+Name: catkin_tools_prebuild
+Description: Description of catkin_tools_prebuild
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/tesla/catkin_ws/src/phantomx_arm-master/phantomx_arm_controller/install/lib 
+Requires: 
