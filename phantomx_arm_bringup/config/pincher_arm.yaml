@@ -1,7 +1,5 @@
 source: pincher_arm.yaml
 port: /dev/ttyUSB0
-read_rate: 25
-write_rate: 50
 joints: {
     arm_shoulder_pan_joint: {
       id: 1,  
